@@ -1,0 +1,7 @@
+C:\Users\mobinjavari\Documents\Visual Studio 2022\ProgrammingCollege\ProgrammingCollege\bin\Debug\ProgrammingCollege.exe.config
+C:\Users\mobinjavari\Documents\Visual Studio 2022\ProgrammingCollege\ProgrammingCollege\bin\Debug\ProgrammingCollege.exe
+C:\Users\mobinjavari\Documents\Visual Studio 2022\ProgrammingCollege\ProgrammingCollege\bin\Debug\ProgrammingCollege.pdb
+C:\Users\mobinjavari\Documents\Visual Studio 2022\ProgrammingCollege\ProgrammingCollege\obj\Debug\ProgrammingCollege.csproj.AssemblyReference.cache
+C:\Users\mobinjavari\Documents\Visual Studio 2022\ProgrammingCollege\ProgrammingCollege\obj\Debug\ProgrammingCollege.csproj.CoreCompileInputs.cache
+C:\Users\mobinjavari\Documents\Visual Studio 2022\ProgrammingCollege\ProgrammingCollege\obj\Debug\ProgrammingCollege.exe
+C:\Users\mobinjavari\Documents\Visual Studio 2022\ProgrammingCollege\ProgrammingCollege\obj\Debug\ProgrammingCollege.pdb
